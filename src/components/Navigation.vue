@@ -6,8 +6,8 @@
         </div>
         <div id="nav-items">
             <router-link class="nav-item" :to="{ name: 'home' }">Home</router-link>
-            <a href="#" class="nav-item">Photos</a>
-            <router-link class="nav-item" to="stories">Stories</router-link>
+            <router-link class="nav-item" :to="{ name: 'gallery' }">Photos</router-link>
+            <router-link class="nav-item" :to="{ name: 'stories' }">Stories</router-link>
             <router-link class="nav-item" :to="{ name: 'obituary' }">Obituary</router-link>
         </div>
     </nav>

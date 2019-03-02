@@ -6,6 +6,7 @@ import Router from 'vue-router';
 import Home     from '@/views/Home.vue';
 import Stories  from '@/views/Stories.vue';
 import Obituary from '@/views/Obituary.vue';
+import Gallery  from '@/views/Gallery.vue';
 
 Vue.use(Router)
 
@@ -27,6 +28,11 @@ export default new Router({
             path: '/obituary',
             name: 'obituary',
             component: Obituary
+        },
+        {
+            path: '/gallery',
+            name: 'gallery',
+            component: Gallery
         }
     ]
-})
+});
