@@ -3,7 +3,7 @@
         <div class="container">
             <h1 class="text-center">Obituary</h1>
             <p>
-                <img class="obit-img" src="@/assets/img/chillwater.jpg" alt="Bausten Jech">
+                <img class="obit-img" src="@/assets/img/thumbs/chillwater.jpg" alt="Bausten Jech">
                 With heavy hearts, the family of Bausten Riley Jech announces his passing on February 18, 2019 in Oklahoma City, OK. Bausten was born on August 10, 1993 in Oklahoma City, OK to Jerry and Tracey Jech. He was raised in Kingfisher, OK and graduated from Kingfisher High School in 2011. Bausten went on to earn his Bachelor of Science degree in 2016 from the University of Central Oklahoma. Throughout his college career, Bausten worked at Results Fitness in Edmond. He was currently employed by Bios Corp where he cared for the developmentally disabled, helping them with their daily needs, administering medication, and ensuring their dietary needs were met.
             </p>
             <p>
@@ -22,7 +22,11 @@
                 4820 N Portland<br>Oklahoma City, OK 73112<br><br>
 
                 <a href="https://support.nature.org/site/Donation2" target="_blank" rel="noopener">The Nature Conservancy</a><br>
-                4245 N Fairfax Dr. Suite 100<br>Arlington, VA 22203
+                4245 N Fairfax Dr. Suite 100<br>Arlington, VA 22203<br><br>
+
+                <a href="https://www.watmetta.org/" target="_blank" rel="noopener">Metta Forest Monastery</a><br>
+                1356 Muutama Ln<br>
+                Valley Center, California 92082
             </p>
         </div>
     </section>
